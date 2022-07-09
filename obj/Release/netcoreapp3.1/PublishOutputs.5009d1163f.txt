@@ -1,0 +1,8 @@
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DreamTeamAPI.exe
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DreamTeamAPI.dll
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DreamTeamAPI.deps.json
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DreamTeamAPI.runtimeconfig.json
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\DreamTeamAPI.pdb
+C:\Users\Mboniseni\Documents\DreamTeamAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
